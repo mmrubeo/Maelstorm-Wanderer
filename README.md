@@ -1,0 +1,1 @@
+This is a git repository! Git repos are used in software engineering both to make it easier for multiple people to work on the same code and to keep a history of changes in the code base. I'm using it mainly for the change log feature as I work on my RUG goodstuff Maelstorm Wanderer list.
